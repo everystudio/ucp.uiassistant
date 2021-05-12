@@ -2,17 +2,18 @@
 	"name": "anogame.ucp.uiassistant",
 	"version": "0.0.1",
 	"displayName": "UIAssistant",
+	"description": "UIAssistant",
 	"unity": "2019.1",
 	"license": "MIT",
-	"description": "UIAssistant",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/everystudio/ucp.uiassistant.git"
 	},
+	"author": "anogame.watanabe",
 	"dependencies": {
 	},
 	"keywords": [
 		"system",
 		"ui"
-	],
+	]
 }
